@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>앱 다운로드</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .download-btn {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            margin: 10px 0;
+            font-size: 18px;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+        }
+        .apk {
+            background-color: #4CAF50;
+        }
+        .ipa {
+            background-color: #007AFF;
+        }
+        .download-btn:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>앱 다운로드</h1>
+        <a href="https://jongmissss.github.io/adhoc/test/chusimtalkdownload.html/app-debug.apk" class="download-btn apk" download>Android (APK) 다운로드</a>
+        <!-- <a href="itms-services://?action=download-manifest&url=https://yourserver.com/app.plist" class="download-btn ipa">iOS (IPA) 다운로드</a> -->
+    </div>
+</body>
+</html>
