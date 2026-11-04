@@ -1,0 +1,61 @@
+{
+  "preparedAt": "2026-11-04",
+  "artifacts": [
+    {
+      "app": "KLMS",
+      "platform": "android",
+      "bundleId": "com.kaist.lms",
+      "version": "1.1.8",
+      "build": "118",
+      "file": "assets/klms-android-1.1.8.apk",
+      "bytes": 15104059,
+      "sha256": "2b4bbd268d017b25525c8575d3ecac0296de4f02d185ba4a3348c1fbafeadf89",
+      "signing": "Google Play internal app sharing",
+      "deviceQA": "2026-10-31",
+      "sharingLinksChecked": "2026-11-04"
+    },
+    {
+      "version": "1.1.0",
+      "build": "114",
+      "bundleId": "com.kaist.lms",
+      "bytes": 1999501,
+      "sha256": "8f0f34a56761c6f81b3be698fe4f76065b1712279bd5113733258440ef60d7ca",
+      "profileExpiry": "2027-11-04T12:26:52Z",
+      "registeredDevices": 62,
+      "minimumOS": "26.0",
+      "app": "KLMS",
+      "platform": "ios",
+      "file": "assets/klms-ios-1.1.0.ipa",
+      "signing": "Apple Development",
+      "otaDeviceQA": false
+    },
+    {
+      "app": "tubeLearn",
+      "platform": "android",
+      "bundleId": "com.intube.webbrowser",
+      "version": "1.1.13",
+      "build": "101121",
+      "file": "assets/tubelearn-android-1.1.13.apk",
+      "bytes": 5028727,
+      "sha256": "86884ebd3baf58d847f1cb2a03df9198962720f0a7e63efa6af13aafa88180d6",
+      "signing": "Google Play internal app sharing",
+      "deviceQA": "2026-10-31",
+      "sharingLinksChecked": "2026-11-04"
+    },
+    {
+      "version": "1.0.5",
+      "build": "6",
+      "bundleId": "com.intube.webbrowser",
+      "bytes": 898078,
+      "sha256": "9c07e24df07b35213ce9145a1c055dc9759bde92c80c1b432ca8ccf1cccccdd6",
+      "profileExpiry": "2027-04-06T15:03:54Z",
+      "registeredDevices": 5,
+      "minimumOS": "26.0",
+      "app": "tubeLearn",
+      "platform": "ios",
+      "file": "assets/tubelearn-ios-1.0.5.ipa",
+      "signing": "Apple Development",
+      "otaDeviceQA": false
+    }
+  ]
+}
