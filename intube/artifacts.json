@@ -15,20 +15,21 @@
       "sharingLinksChecked": "2026-11-04"
     },
     {
-      "version": "1.1.0",
-      "build": "115",
+      "version": "1.1.4",
+      "build": "1.1.4",
       "bundleId": "com.kaist.lms",
-      "bytes": 2001683,
-      "sha256": "b392672e1567e86827f2510a9044eae35aee845718976a0f57992d2431df421b",
-      "profileExpiry": "2027-11-04T13:50:12Z",
-      "registeredDevices": 63,
+      "bytes": 1994192,
+      "sha256": "27f650b58b623a29835a5813430da1fa27445eac18a379b55241b0b9cf7bcf90",
+      "profileExpiry": "2027-08-19T05:50:33Z",
+      "registeredDevices": 64,
       "minimumOS": "26.0",
       "app": "KLMS",
       "platform": "ios",
-      "file": "assets/klms-ios-1.1.0-115.ipa",
-      "signing": "Apple Development",
+      "file": "assets/klms-ios-1.1.4-1.1.4.ipa",
+      "signing": "Apple Distribution (Ad Hoc)",
       "otaDeviceQA": false,
-      "targetIncluded": true
+      "targetIncluded": true,
+      "preparedAt": "2026-11-18"
     },
     {
       "app": "tubeLearn",
