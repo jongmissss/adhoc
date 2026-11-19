@@ -7,13 +7,13 @@
       "bundleId": "com.kaist.lms",
       "version": "1.1.12",
       "build": "10112",
-      "file": "assets/klms-android-1.1.12-9f6ca334.apk",
-      "bytes": 15202706,
-      "sha256": "9f6ca3343c7f13ee1924cf94b16c6cf0a15ccc27a22844a8eb7abcbc11b310ab",
+      "file": "assets/klms-android-1.1.12-a7c5b281.apk",
+      "bytes": 15186322,
+      "sha256": "a7c5b2810e33d5efe416eab505ee602ffb2924dff777cdb398fd00cedbc2c998",
       "signing": "Google Play internal app sharing (signer cert SHA-256 97ce3481590eb86700cba9263e5b54adabe4ef630dc15a0cdf89ea0627adf2a4)",
-      "purpose": "biometric login wait and small-screen layout fix",
-      "preparedAt": "2026-11-19",
-      "deviceQA": "2026-11-19"
+      "purpose": "biometric login wait and small-screen layout fix; original splash Crop restored",
+      "preparedAt": "2026-11-20",
+      "deviceQA": "2026-11-20"
     },
     {
       "version": "1.1.0",
