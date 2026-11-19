@@ -5,14 +5,14 @@
       "app": "KLMS",
       "platform": "android",
       "bundleId": "com.kaist.lms",
-      "version": "1.1.8",
-      "build": "118",
-      "file": "assets/klms-android-1.1.8.apk",
-      "bytes": 15104059,
-      "sha256": "2b4bbd268d017b25525c8575d3ecac0296de4f02d185ba4a3348c1fbafeadf89",
-      "signing": "Google Play internal app sharing",
-      "deviceQA": "2026-10-31",
-      "sharingLinksChecked": "2026-11-04"
+      "version": "1.1.12",
+      "build": "10112",
+      "file": "assets/klms-android-1.1.12.apk",
+      "bytes": 15085151,
+      "sha256": "1c06f62d6a702cdf5031344a2c610cbdbcef1e42e9ca36fd6bd48601981563a4",
+      "signing": "APK Signature Scheme v2 (signer cert SHA-256 92a5baecc7a6e407b019565de97580a5764387edebee062d105e2bf7d910f65f)",
+      "purpose": "biometric login fix",
+      "preparedAt": "2026-11-19"
     },
     {
       "version": "1.1.0",
